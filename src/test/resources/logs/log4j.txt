@@ -1,0 +1,5 @@
+2019-09-30 03:44:11 INFO   - ======>>> LOGGER File Loaded Successfully...!!!
+2019-09-30 03:44:11 INFO   - ======>>> CONFIGURATION File Loaded Successfully...!!!
+2019-09-30 03:44:11 INFO   - ======>>> LOCATOR File Loaded Successfully...!!!
+2019-09-30 03:44:15 INFO   - Chrome Browser Launched Successfully...!!!!
+2019-09-30 03:44:20 INFO   - Navigated to : https://www.hallwaze.com/app/
